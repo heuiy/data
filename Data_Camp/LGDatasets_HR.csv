@@ -1,4 +1,4 @@
-﻿id,age,sex,marriage,attrition,dept,product,rank_job,total_working_years,length_of_service,job_satisfaction,relationship_satisfaction,work_life_balance
+id,age,sex,marriage,attrition,dept,product,rank_job,total_working_years,length_of_service,job_satisfaction,relationship_satisfaction,work_life_balance
 111488,34,Male,Divorced,No,HA,건조기,책임,10,9,4,4,2
 112867,33,Male,Married,No,HA,건조기,책임,5,5,3,5,3
 113114,29,Male,Single,No,HA,건조기,사원,6,3,4,4,3
