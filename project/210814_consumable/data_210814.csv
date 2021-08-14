@@ -5538,7 +5538,7 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 300009,Sartofluor GA 10',EA,19,10,합성,
 300010,Sartofluor GA 20',EA,19,10,합성,
 300011,Sartofluor Mini,EA,19,10,합성,
-302000,수산화나트륨(퀴놀론1KG),kg,19,10,합성,22
+302000,수산화나트륨(퀴놀론1KG),kg,19,10,합성,21.959
 302060,AGP Solution Kit,EA,19,10,합성,
 302101,5mL PC Validation Vial,EA,19,10,합성,
 302102,Autoclave Indicator. Sigmaware,EA,19,10,합성,
@@ -6293,119 +6293,119 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 303040,Hypo-chlor (Sporicide) Gallon size 자가,EA,19,11,생지/공무,
 303080,70% IPA Dispenser용(자동분무기용),EA,19,11,생지/공무,
 102990,Filter Unit 1L 자가(Bottle top),EA,19,11,생지/공무,
-100130,디메티콘 유제 35% 자가,g,19,8,완제, 16,000 
+100130,디메티콘 유제 35% 자가,g,19,8,완제,16000
 105521,TSB(Non animal origin) 자가,BT,19,8,완제,
 105944,20L Glass bottle(screw),EA,19,8,완제,
 105996,멸균백1200*1200mm,EA,19,8,완제,
-105998,멸균백400*500mm,EA,19,8,완제, 1,500 
+105998,멸균백400*500mm,EA,19,8,완제,1500
 106159,Durapore Opticap XL4 (KVGLA04TT3),EA,19,8,완제,
-300006,퐁퐁,EA,19,8,완제, 16 
+300006,퐁퐁,EA,19,8,완제,16
 300009,Sartofluor GA 10',EA,19,8,완제,
 300010,Sartofluor GA 20',EA,19,8,완제,
 300011,Sartofluor Mini,EA,19,8,완제,
-302000,수산화나트륨(퀴놀론1KG),kg,19,8,완제, 132 
+302000,수산화나트륨(퀴놀론1KG),kg,19,8,완제,132
 302060,AGP Solution Kit,EA,19,8,완제,
 302101,5mL PC Validation Vial,EA,19,8,완제,
 302102,Autoclave Indicator. Sigmaware,EA,19,8,완제,
 302103,Hi Temperature Indicator(Shamrock)(건열),EA,19,8,완제,
-302104,Chemical Indicator 1250 (3M),EA,19,8,완제, 3 
+302104,Chemical Indicator 1250 (3M),EA,19,8,완제,3
 302109,락스 (럭키),EA,19,8,완제,
 302122,염화나트륨(수지 재생용) 자가,kg,19,8,완제,
-302123,펌프 튜빙(Masterflex L/S 16),EA,19,8,완제, 18 
+302123,펌프 튜빙(Masterflex L/S 16),EA,19,8,완제,18
 302124,펌프 튜빙(Masterflex L/S 17),EA,19,8,완제,
 302125,펌프 튜빙(Masterflex L/S 18),EA,19,8,완제,
 302126,펌프 튜빙(Masterflex L/S 24),EA,19,8,완제,
 302127,펌프 튜빙(Masterflex I/P 73),EA,19,8,완제,
 302128,펌프 튜빙(Masterflex I/P 82),EA,19,8,완제,
-302143,Endotoxin Indicator(Endosafe) 자가,EA,19,8,완제, 4 
+302143,Endotoxin Indicator(Endosafe) 자가,EA,19,8,완제,4
 302161,Durapore 필터(SCGVU11RE),EA,19,8,완제,
 302170,아세톤 자가,mL ,19,8,완제,
-302171,Optiseal 필터(LAGR04TP6),EA,19,8,완제, 6 
-302210,펌프 튜빙(NALGENE 8060-0200),EA,19,8,완제, 8 
-302212,펌프 튜빙(NALGENE 8060-0100),EA,19,8,완제, 4 
-302213,펌프 튜빙(NALGENE 8060-0060),EA,19,8,완제, 3 
-302214,펌프 튜빙(NALGENE 8060-0040),EA,19,8,완제, 1 
+302171,Optiseal 필터(LAGR04TP6),EA,19,8,완제,6
+302210,펌프 튜빙(NALGENE 8060-0200),EA,19,8,완제,8
+302212,펌프 튜빙(NALGENE 8060-0100),EA,19,8,완제,4
+302213,펌프 튜빙(NALGENE 8060-0060),EA,19,8,완제,3
+302214,펌프 튜빙(NALGENE 8060-0040),EA,19,8,완제,1
 302250,필터 (PUY2UY300H),EA,19,8,완제,
 302251,필터 (PUY2UY100H),EA,19,8,완제,
 302256,필터 (PUY1UY400J),EA,19,8,완제,
 302259,필터 (AB1PFA7PVH4),EA,19,8,완제,
 302260,필터 (AB3NFZ7PH4),EA,19,8,완제,
 302341,펌프 튜빙(Masterflex L/S 25),EA,19,8,완제,
-302450,필터(SLK7002PFRP)(스팀필터),EA,19,8,완제, 7 
-302451,필터(MCY4463PFRPVH4)(N2 필터),EA,19,8,완제, 2 
-302452,필터(AB1CPFR7PVH4)(DIP 필터),EA,19,8,완제, 2 
-302453,필터(CTGB71TP3)(스팀필터),EA,19,8,완제, 26 
+302450,필터(SLK7002PFRP)(스팀필터),EA,19,8,완제,7
+302451,필터(MCY4463PFRPVH4)(N2 필터),EA,19,8,완제,2
+302452,필터(AB1CPFR7PVH4)(DIP 필터),EA,19,8,완제,2
+302453,필터(CTGB71TP3)(스팀필터),EA,19,8,완제,26
 302481,구연산무수(99.5%이상),kg,19,8,완제,
-302520,PFA Tubing(EW-06371-04),EA,19,8,완제, 5 
-302521,PFA Tubing(RZ-06375-02),EA,19,8,완제, 3 
-302530,Opticap XL4 Capsule Filter(KTGRA04TT3),EA,19,8,완제, 13 
-302572,Millex-FG Filter(MTGR85000),EA,19,8,완제, 26 
-302573,C-Flex Tubing(072-313-3),EA,19,8,완제, 1 
-302620,CTGR75S01 Millipore Filter,EA,19,8,완제, 6 
+302520,PFA Tubing(EW-06371-04),EA,19,8,완제,5
+302521,PFA Tubing(RZ-06375-02),EA,19,8,완제,3
+302530,Opticap XL4 Capsule Filter(KTGRA04TT3),EA,19,8,완제,13
+302572,Millex-FG Filter(MTGR85000),EA,19,8,완제,26
+302573,C-Flex Tubing(072-313-3),EA,19,8,완제,1
+302620,CTGR75S01 Millipore Filter,EA,19,8,완제,6
 302621,KVGB04TC3 Milliporre Filter,EA,19,8,완제,
-302622,CTGB72TP3 Millipore Filter,EA,19,8,완제, 2 
-302623,AB05PFR7PVH4 Pall Filter,EA,19,8,완제, 3 
+302622,CTGB72TP3 Millipore Filter,EA,19,8,완제,2
+302623,AB05PFR7PVH4 Pall Filter,EA,19,8,완제,3
 302690,액체 세제 (액츠 무진복 세탁용),EA,19,8,완제,
-302774,Aervent 20' Cartridge Filter CTGR72TP1,EA,19,8,완제, 11 
-302780,H2O2 for HPV,EA,19,8,완제, 14 
+302774,Aervent 20' Cartridge Filter CTGR72TP1,EA,19,8,완제,11
+302780,H2O2 for HPV,EA,19,8,완제,14
 302880,Sartfluor GA,EA,19,8,완제,
 302881,Sartfluor junior,EA,19,8,완제,
 302882,SP Sephadex C50 자가,g,19,8,완제,
-303090,테크세제,EA,19,8,완제, 2 
-302841,72B/A4 Clean paper,EA,19,8,완제, 3,250 
+303090,테크세제,EA,19,8,완제,2
+302841,72B/A4 Clean paper,EA,19,8,완제,3250
 200522,화이버 드럼,EA,19,8,완제,
-106602,보위딕 테스트 팩(Terragene),EA,19,8,완제, 691 
+106602,보위딕 테스트 팩(Terragene),EA,19,8,완제,691
 302255,필터 (PFY2UY300J),EA,19,8,완제,
-302571,Sartofluor Filter(5185307T8),EA,19,8,완제, 13 
+302571,Sartofluor Filter(5185307T8),EA,19,8,완제,13
 302151,Sartoclean CA 20',EA,19,8,완제,
 302257,필터 (PFY1J012J),EA,19,8,완제,
 302914,Sterile Filter(KA3EKVP10.2um),EA,19,8,완제,
-300953,킴텍스(50×70×1),EA,19,8,완제, 2,430 
+300953,킴텍스(50×70×1),EA,19,8,완제,2430
 302321,훈증액 MINNACARE COLD STERILANT,BT,19,8,완제,
 302254,필터 (MBS1002RJH2),EA,19,8,완제,
-103638,밀리팩200(MPGL2GCL3),EA,19,8,완제, 13 
+103638,밀리팩200(MPGL2GCL3),EA,19,8,완제,13
 102141,SARTOBRAN P 10' Filter,EA,19,8,완제,
 100351,Filter SARTOPURE PP2,EA,19,8,완제,
-303031,DECON-SPORE 200 Plus(0.4%)472mL 자가,EA,19,8,완제, 160 
-303034,Decon-cycle (Disinfectant)472mL 자가,EA,19,8,완제, 112 
-303038,DECON-SPORE200Plus(0.4% )Gallon siz자가,EA,19,8,완제, 236 
-303041,Decon-cycle(Disinfectant)Gallonsize자가,EA,19,8,완제, 240 
-303036,70% IPA 472mL 자가,EA,19,8,완제, 1,129 
-303060,70% IPA Gallon size 자가,EA,19,8,완제, 51 
-303033,5% Decon-spore (Sporicide)472mL 자가,EA,19,8,완제, 147 
-303039,5% Decon-spore(Sporicide)Gallon size자가,EA,19,8,완제, 20 
+303031,DECON-SPORE 200 Plus(0.4%)472mL 자가,EA,19,8,완제,160
+303034,Decon-cycle (Disinfectant)472mL 자가,EA,19,8,완제,112
+303038,DECON-SPORE200Plus(0.4% )Gallon siz자가,EA,19,8,완제,236
+303041,Decon-cycle(Disinfectant)Gallonsize자가,EA,19,8,완제,240
+303036,70% IPA 472mL 자가,EA,19,8,완제,1129
+303060,70% IPA Gallon size 자가,EA,19,8,완제,51
+303033,5% Decon-spore (Sporicide)472mL 자가,EA,19,8,완제,147
+303039,5% Decon-spore(Sporicide)Gallon size자가,EA,19,8,완제,20
 303035,Hypo-chlor (Sporicide)472mL 자가,EA,19,8,완제,
 303040,Hypo-chlor (Sporicide) Gallon size 자가,EA,19,8,완제,
-303080,70% IPA Dispenser용(자동분무기용),EA,19,8,완제, 8 
+303080,70% IPA Dispenser용(자동분무기용),EA,19,8,완제,8
 102990,Filter Unit 1L 자가(Bottle top),EA,19,8,완제,
 100130,디메티콘 유제 35% 자가,g,19,8,원제(1part),
 105521,TSB(Non animal origin) 자가,BT,19,8,원제(1part),
 105944,20L Glass bottle(screw),EA,19,8,원제(1part),
 105996,멸균백1200*1200mm,EA,19,8,원제(1part),
-105998,멸균백400*500mm,EA,19,8,원제(1part), 400 
+105998,멸균백400*500mm,EA,19,8,원제(1part),400
 106159,Durapore Opticap XL4 (KVGLA04TT3),EA,19,8,원제(1part),
-300006,퐁퐁,EA,19,8,원제(1part), 7 
+300006,퐁퐁,EA,19,8,원제(1part),7
 300009,Sartofluor GA 10',EA,19,8,원제(1part),
 300010,Sartofluor GA 20',EA,19,8,원제(1part),
-300011,Sartofluor Mini,EA,19,8,원제(1part), 15 
+300011,Sartofluor Mini,EA,19,8,원제(1part),15
 302000,수산화나트륨(퀴놀론1KG),kg,19,8,원제(1part),
 302060,AGP Solution Kit,EA,19,8,원제(1part),
 302101,5mL PC Validation Vial,EA,19,8,원제(1part),
-302102,Autoclave Indicator. Sigmaware,EA,19,8,원제(1part), 3 
+302102,Autoclave Indicator. Sigmaware,EA,19,8,원제(1part),3
 302103,Hi Temperature Indicator(Shamrock)(건열),EA,19,8,원제(1part),
 302104,Chemical Indicator 1250 (3M),EA,19,8,원제(1part),
-302109,락스 (럭키),EA,19,8,원제(1part), 7 
+302109,락스 (럭키),EA,19,8,원제(1part),7
 302122,염화나트륨(수지 재생용) 자가,kg,19,8,원제(1part),
 302123,펌프 튜빙(Masterflex L/S 16),EA,19,8,원제(1part),
-302124,펌프 튜빙(Masterflex L/S 17),EA,19,8,원제(1part), 1 
-302125,펌프 튜빙(Masterflex L/S 18),EA,19,8,원제(1part), 2 
+302124,펌프 튜빙(Masterflex L/S 17),EA,19,8,원제(1part),1
+302125,펌프 튜빙(Masterflex L/S 18),EA,19,8,원제(1part),2
 302126,펌프 튜빙(Masterflex L/S 24),EA,19,8,원제(1part),
 302127,펌프 튜빙(Masterflex I/P 73),EA,19,8,원제(1part),
-302128,펌프 튜빙(Masterflex I/P 82),EA,19,8,원제(1part), 7 
-302143,Endotoxin Indicator(Endosafe) 자가,EA,19,8,원제(1part), 1 
-302161,Durapore 필터(SCGVU11RE),EA,19,8,원제(1part), 31 
+302128,펌프 튜빙(Masterflex I/P 82),EA,19,8,원제(1part),7
+302143,Endotoxin Indicator(Endosafe) 자가,EA,19,8,원제(1part),1
+302161,Durapore 필터(SCGVU11RE),EA,19,8,원제(1part),31
 302170,아세톤 자가,mL ,19,8,원제(1part),
-302171,Optiseal 필터(LAGR04TP6),EA,19,8,원제(1part), 5 
+302171,Optiseal 필터(LAGR04TP6),EA,19,8,원제(1part),5
 302210,펌프 튜빙(NALGENE 8060-0200),EA,19,8,원제(1part),
 302212,펌프 튜빙(NALGENE 8060-0100),EA,19,8,원제(1part),
 302213,펌프 튜빙(NALGENE 8060-0060),EA,19,8,원제(1part),
@@ -6419,18 +6419,18 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 302450,필터(SLK7002PFRP)(스팀필터),EA,19,8,원제(1part),
 302451,필터(MCY4463PFRPVH4)(N2 필터),EA,19,8,원제(1part),
 302452,필터(AB1CPFR7PVH4)(DIP 필터),EA,19,8,원제(1part),
-302453,필터(CTGB71TP3)(스팀필터),EA,19,8,원제(1part), 5 
+302453,필터(CTGB71TP3)(스팀필터),EA,19,8,원제(1part),5
 302481,구연산무수(99.5%이상),kg,19,8,원제(1part),
 302520,PFA Tubing(EW-06371-04),EA,19,8,원제(1part),
 302521,PFA Tubing(RZ-06375-02),EA,19,8,원제(1part),
 302530,Opticap XL4 Capsule Filter(KTGRA04TT3),EA,19,8,원제(1part),
 302572,Millex-FG Filter(MTGR85000),EA,19,8,원제(1part),
 302573,C-Flex Tubing(072-313-3),EA,19,8,원제(1part),
-302620,CTGR75S01 Millipore Filter,EA,19,8,원제(1part), 3 
+302620,CTGR75S01 Millipore Filter,EA,19,8,원제(1part),3
 302621,KVGB04TC3 Milliporre Filter,EA,19,8,원제(1part),
 302622,CTGB72TP3 Millipore Filter,EA,19,8,원제(1part),
 302623,AB05PFR7PVH4 Pall Filter,EA,19,8,원제(1part),
-302690,액체 세제 (액츠 무진복 세탁용),EA,19,8,원제(1part), 9 
+302690,액체 세제 (액츠 무진복 세탁용),EA,19,8,원제(1part),9
 302774,Aervent 20' Cartridge Filter CTGR72TP1,EA,19,8,원제(1part),
 302780,H2O2 for HPV,EA,19,8,원제(1part),
 302880,Sartfluor GA,EA,19,8,원제(1part),
@@ -6439,7 +6439,7 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 303090,테크세제,EA,19,8,원제(1part),
 302841,72B/A4 Clean paper,EA,19,8,원제(1part),
 200522,화이버 드럼,EA,19,8,원제(1part),
-106602,보위딕 테스트 팩(Terragene),EA,19,8,원제(1part), 23 
+106602,보위딕 테스트 팩(Terragene),EA,19,8,원제(1part),23
 302255,필터 (PFY2UY300J),EA,19,8,원제(1part),
 302571,Sartofluor Filter(5185307T8),EA,19,8,원제(1part),
 302151,Sartoclean CA 20',EA,19,8,원제(1part),
@@ -6448,48 +6448,48 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 300953,킴텍스(50×70×1),EA,19,8,원제(1part),
 302321,훈증액 MINNACARE COLD STERILANT,BT,19,8,원제(1part),
 302254,필터 (MBS1002RJH2),EA,19,8,원제(1part),
-103638,밀리팩200(MPGL2GCL3),EA,19,8,원제(1part), 11 
+103638,밀리팩200(MPGL2GCL3),EA,19,8,원제(1part),11
 102141,SARTOBRAN P 10' Filter,EA,19,8,원제(1part),
 100351,Filter SARTOPURE PP2,EA,19,8,원제(1part),
-303031,DECON-SPORE 200 Plus(0.4%)472mL 자가,EA,19,8,원제(1part), 25 
-303034,Decon-cycle (Disinfectant)472mL 자가,EA,19,8,원제(1part), 12 
-303038,DECON-SPORE200Plus(0.4% )Gallon siz자가,EA,19,8,원제(1part), 5 
-303041,Decon-cycle(Disinfectant)Gallonsize자가,EA,19,8,원제(1part), 10 
-303036,70% IPA 472mL 자가,EA,19,8,원제(1part), 35 
+303031,DECON-SPORE 200 Plus(0.4%)472mL 자가,EA,19,8,원제(1part),25
+303034,Decon-cycle (Disinfectant)472mL 자가,EA,19,8,원제(1part),12
+303038,DECON-SPORE200Plus(0.4% )Gallon siz자가,EA,19,8,원제(1part),5
+303041,Decon-cycle(Disinfectant)Gallonsize자가,EA,19,8,원제(1part),10
+303036,70% IPA 472mL 자가,EA,19,8,원제(1part),35
 303060,70% IPA Gallon size 자가,EA,19,8,원제(1part),
 303033,5% Decon-spore (Sporicide)472mL 자가,EA,19,8,원제(1part),
-303039,5% Decon-spore(Sporicide)Gallon size자가,EA,19,8,원제(1part), 1 
+303039,5% Decon-spore(Sporicide)Gallon size자가,EA,19,8,원제(1part),1
 303035,Hypo-chlor (Sporicide)472mL 자가,EA,19,8,원제(1part),
 303040,Hypo-chlor (Sporicide) Gallon size 자가,EA,19,8,원제(1part),
-303080,70% IPA Dispenser용(자동분무기용),EA,19,8,원제(1part), 8 
+303080,70% IPA Dispenser용(자동분무기용),EA,19,8,원제(1part),8
 102990,Filter Unit 1L 자가(Bottle top),EA,19,8,원제(1part),
 100130,디메티콘 유제 35% 자가,g,19,8,원제(2part),
 105521,TSB(Non animal origin) 자가,BT,19,8,원제(2part),
-105944,20L Glass bottle(screw),EA,19,8,원제(2part), 10 
-105996,멸균백1200*1200mm,EA,19,8,원제(2part), 200 
-105998,멸균백400*500mm,EA,19,8,원제(2part), 1,000 
+105944,20L Glass bottle(screw),EA,19,8,원제(2part),10
+105996,멸균백1200*1200mm,EA,19,8,원제(2part),200
+105998,멸균백400*500mm,EA,19,8,원제(2part),1000
 106159,Durapore Opticap XL4 (KVGLA04TT3),EA,19,8,원제(2part),
-300006,퐁퐁,EA,19,8,원제(2part), 18 
-300009,Sartofluor GA 10',EA,19,8,원제(2part), 30 
-300010,Sartofluor GA 20',EA,19,8,원제(2part), 4 
-300011,Sartofluor Mini,EA,19,8,원제(2part), 36 
+300006,퐁퐁,EA,19,8,원제(2part),18
+300009,Sartofluor GA 10',EA,19,8,원제(2part),30
+300010,Sartofluor GA 20',EA,19,8,원제(2part),4
+300011,Sartofluor Mini,EA,19,8,원제(2part),36
 302000,수산화나트륨(퀴놀론1KG),kg,19,8,원제(2part),
-302060,AGP Solution Kit,EA,19,8,원제(2part), 43 
-302101,5mL PC Validation Vial,EA,19,8,원제(2part), 100 
-302102,Autoclave Indicator. Sigmaware,EA,19,8,원제(2part), 43 
-302103,Hi Temperature Indicator(Shamrock)(건열),EA,19,8,원제(2part), 4 
+302060,AGP Solution Kit,EA,19,8,원제(2part),43
+302101,5mL PC Validation Vial,EA,19,8,원제(2part),100
+302102,Autoclave Indicator. Sigmaware,EA,19,8,원제(2part),43
+302103,Hi Temperature Indicator(Shamrock)(건열),EA,19,8,원제(2part),4
 302104,Chemical Indicator 1250 (3M),EA,19,8,원제(2part),
-302109,락스 (럭키),EA,19,8,원제(2part), 35 
+302109,락스 (럭키),EA,19,8,원제(2part),35
 302122,염화나트륨(수지 재생용) 자가,kg,19,8,원제(2part),
-302123,펌프 튜빙(Masterflex L/S 16),EA,19,8,원제(2part), 10 
-302124,펌프 튜빙(Masterflex L/S 17),EA,19,8,원제(2part), 2 
+302123,펌프 튜빙(Masterflex L/S 16),EA,19,8,원제(2part),10
+302124,펌프 튜빙(Masterflex L/S 17),EA,19,8,원제(2part),2
 302125,펌프 튜빙(Masterflex L/S 18),EA,19,8,원제(2part),
-302126,펌프 튜빙(Masterflex L/S 24),EA,19,8,원제(2part), 11 
-302127,펌프 튜빙(Masterflex I/P 73),EA,19,8,원제(2part), 4 
-302128,펌프 튜빙(Masterflex I/P 82),EA,19,8,원제(2part), 9 
+302126,펌프 튜빙(Masterflex L/S 24),EA,19,8,원제(2part),11
+302127,펌프 튜빙(Masterflex I/P 73),EA,19,8,원제(2part),4
+302128,펌프 튜빙(Masterflex I/P 82),EA,19,8,원제(2part),9
 302143,Endotoxin Indicator(Endosafe) 자가,EA,19,8,원제(2part),
-302161,Durapore 필터(SCGVU11RE),EA,19,8,원제(2part), 1 
-302170,아세톤 자가,mL ,19,8,원제(2part), 22,774 
+302161,Durapore 필터(SCGVU11RE),EA,19,8,원제(2part),1
+302170,아세톤 자가,mL ,19,8,원제(2part),22774
 302171,Optiseal 필터(LAGR04TP6),EA,19,8,원제(2part),
 302210,펌프 튜빙(NALGENE 8060-0200),EA,19,8,원제(2part),
 302212,펌프 튜빙(NALGENE 8060-0100),EA,19,8,원제(2part),
@@ -6500,7 +6500,7 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 302256,필터 (PUY1UY400J),EA,19,8,원제(2part),
 302259,필터 (AB1PFA7PVH4),EA,19,8,원제(2part),
 302260,필터 (AB3NFZ7PH4),EA,19,8,원제(2part),
-302341,펌프 튜빙(Masterflex L/S 25),EA,19,8,원제(2part), 5 
+302341,펌프 튜빙(Masterflex L/S 25),EA,19,8,원제(2part),5
 302450,필터(SLK7002PFRP)(스팀필터),EA,19,8,원제(2part),
 302451,필터(MCY4463PFRPVH4)(N2 필터),EA,19,8,원제(2part),
 302452,필터(AB1CPFR7PVH4)(DIP 필터),EA,19,8,원제(2part),
@@ -6515,38 +6515,38 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 302621,KVGB04TC3 Milliporre Filter,EA,19,8,원제(2part),
 302622,CTGB72TP3 Millipore Filter,EA,19,8,원제(2part),
 302623,AB05PFR7PVH4 Pall Filter,EA,19,8,원제(2part),
-302690,액체 세제 (액츠 무진복 세탁용),EA,19,8,원제(2part), 30 
+302690,액체 세제 (액츠 무진복 세탁용),EA,19,8,원제(2part),30
 302774,Aervent 20' Cartridge Filter CTGR72TP1,EA,19,8,원제(2part),
 302780,H2O2 for HPV,EA,19,8,원제(2part),
-302880,Sartfluor GA,EA,19,8,원제(2part), 4 
+302880,Sartfluor GA,EA,19,8,원제(2part),4
 302881,Sartfluor junior,EA,19,8,원제(2part),
 302882,SP Sephadex C50 자가,g,19,8,원제(2part),
-303090,테크세제,EA,19,8,원제(2part), 5 
+303090,테크세제,EA,19,8,원제(2part),5
 302841,72B/A4 Clean paper,EA,19,8,원제(2part),
 200522,화이버 드럼,EA,19,8,원제(2part),
-106602,보위딕 테스트 팩(Terragene),EA,19,8,원제(2part), 157 
+106602,보위딕 테스트 팩(Terragene),EA,19,8,원제(2part),157
 302255,필터 (PFY2UY300J),EA,19,8,원제(2part),
 302571,Sartofluor Filter(5185307T8),EA,19,8,원제(2part),
-302151,Sartoclean CA 20',EA,19,8,원제(2part), 14 
+302151,Sartoclean CA 20',EA,19,8,원제(2part),14
 302257,필터 (PFY1J012J),EA,19,8,원제(2part),
 302914,Sterile Filter(KA3EKVP10.2um),EA,19,8,원제(2part),
 300953,킴텍스(50×70×1),EA,19,8,원제(2part),
 302321,훈증액 MINNACARE COLD STERILANT,BT,19,8,원제(2part),
 302254,필터 (MBS1002RJH2),EA,19,8,원제(2part),
-103638,밀리팩200(MPGL2GCL3),EA,19,8,원제(2part), 24 
-102141,SARTOBRAN P 10' Filter,EA,19,8,원제(2part), 27 
-100351,Filter SARTOPURE PP2,EA,19,8,원제(2part), 75 
-303031,DECON-SPORE 200 Plus(0.4%)472mL 자가,EA,19,8,원제(2part), 91 
-303034,Decon-cycle (Disinfectant)472mL 자가,EA,19,8,원제(2part), 122 
-303038,DECON-SPORE200Plus(0.4% )Gallon siz자가,EA,19,8,원제(2part), 41 
-303041,Decon-cycle(Disinfectant)Gallonsize자가,EA,19,8,원제(2part), 43 
-303036,70% IPA 472mL 자가,EA,19,8,원제(2part), 515 
+103638,밀리팩200(MPGL2GCL3),EA,19,8,원제(2part),24
+102141,SARTOBRAN P 10' Filter,EA,19,8,원제(2part),27
+100351,Filter SARTOPURE PP2,EA,19,8,원제(2part),75
+303031,DECON-SPORE 200 Plus(0.4%)472mL 자가,EA,19,8,원제(2part),91
+303034,Decon-cycle (Disinfectant)472mL 자가,EA,19,8,원제(2part),122
+303038,DECON-SPORE200Plus(0.4% )Gallon siz자가,EA,19,8,원제(2part),41
+303041,Decon-cycle(Disinfectant)Gallonsize자가,EA,19,8,원제(2part),43
+303036,70% IPA 472mL 자가,EA,19,8,원제(2part),515
 303060,70% IPA Gallon size 자가,EA,19,8,원제(2part),
-303033,5% Decon-spore (Sporicide)472mL 자가,EA,19,8,원제(2part), 24 
-303039,5% Decon-spore(Sporicide)Gallon size자가,EA,19,8,원제(2part), 5 
+303033,5% Decon-spore (Sporicide)472mL 자가,EA,19,8,원제(2part),24
+303039,5% Decon-spore(Sporicide)Gallon size자가,EA,19,8,원제(2part),5
 303035,Hypo-chlor (Sporicide)472mL 자가,EA,19,8,원제(2part),
 303040,Hypo-chlor (Sporicide) Gallon size 자가,EA,19,8,원제(2part),
-303080,70% IPA Dispenser용(자동분무기용),EA,19,8,원제(2part), 22 
+303080,70% IPA Dispenser용(자동분무기용),EA,19,8,원제(2part),22
 102990,Filter Unit 1L 자가(Bottle top),EA,19,8,원제(2part),
 100130,디메티콘 유제 35% 자가,g,19,8,합성,
 105521,TSB(Non animal origin) 자가,BT,19,8,합성,
@@ -6554,11 +6554,11 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 105996,멸균백1200*1200mm,EA,19,8,합성,
 105998,멸균백400*500mm,EA,19,8,합성,
 106159,Durapore Opticap XL4 (KVGLA04TT3),EA,19,8,합성,
-300006,퐁퐁,EA,19,8,합성, 1 
+300006,퐁퐁,EA,19,8,합성,1
 300009,Sartofluor GA 10',EA,19,8,합성,
 300010,Sartofluor GA 20',EA,19,8,합성,
 300011,Sartofluor Mini,EA,19,8,합성,
-302000,수산화나트륨(퀴놀론1KG),kg,19,8,합성, 257 
+302000,수산화나트륨(퀴놀론1KG),kg,19,8,합성,256.848
 302060,AGP Solution Kit,EA,19,8,합성,
 302101,5mL PC Validation Vial,EA,19,8,합성,
 302102,Autoclave Indicator. Sigmaware,EA,19,8,합성,
@@ -6580,11 +6580,11 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 302212,펌프 튜빙(NALGENE 8060-0100),EA,19,8,합성,
 302213,펌프 튜빙(NALGENE 8060-0060),EA,19,8,합성,
 302214,펌프 튜빙(NALGENE 8060-0040),EA,19,8,합성,
-302250,필터 (PUY2UY300H),EA,19,8,합성, 18 
-302251,필터 (PUY2UY100H),EA,19,8,합성, 9 
-302256,필터 (PUY1UY400J),EA,19,8,합성, 1 
-302259,필터 (AB1PFA7PVH4),EA,19,8,합성, 1 
-302260,필터 (AB3NFZ7PH4),EA,19,8,합성, 1 
+302250,필터 (PUY2UY300H),EA,19,8,합성,18
+302251,필터 (PUY2UY100H),EA,19,8,합성,9
+302256,필터 (PUY1UY400J),EA,19,8,합성,1
+302259,필터 (AB1PFA7PVH4),EA,19,8,합성,1
+302260,필터 (AB3NFZ7PH4),EA,19,8,합성,1
 302341,펌프 튜빙(Masterflex L/S 25),EA,19,8,합성,
 302450,필터(SLK7002PFRP)(스팀필터),EA,19,8,합성,
 302451,필터(MCY4463PFRPVH4)(N2 필터),EA,19,8,합성,
@@ -6600,7 +6600,7 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 302621,KVGB04TC3 Milliporre Filter,EA,19,8,합성,
 302622,CTGB72TP3 Millipore Filter,EA,19,8,합성,
 302623,AB05PFR7PVH4 Pall Filter,EA,19,8,합성,
-302690,액체 세제 (액츠 무진복 세탁용),EA,19,8,합성, 14 
+302690,액체 세제 (액츠 무진복 세탁용),EA,19,8,합성,14
 302774,Aervent 20' Cartridge Filter CTGR72TP1,EA,19,8,합성,
 302780,H2O2 for HPV,EA,19,8,합성,
 302880,Sartfluor GA,EA,19,8,합성,
@@ -6608,12 +6608,12 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 302882,SP Sephadex C50 자가,g,19,8,합성,
 303090,테크세제,EA,19,8,합성,
 302841,72B/A4 Clean paper,EA,19,8,합성,
-200522,화이버 드럼,EA,19,8,합성, 152 
+200522,화이버 드럼,EA,19,8,합성,152
 106602,보위딕 테스트 팩(Terragene),EA,19,8,합성,
-302255,필터 (PFY2UY300J),EA,19,8,합성, 2 
+302255,필터 (PFY2UY300J),EA,19,8,합성,2
 302571,Sartofluor Filter(5185307T8),EA,19,8,합성,
 302151,Sartoclean CA 20',EA,19,8,합성,
-302257,필터 (PFY1J012J),EA,19,8,합성, 1 
+302257,필터 (PFY1J012J),EA,19,8,합성,1
 302914,Sterile Filter(KA3EKVP10.2um),EA,19,8,합성,
 300953,킴텍스(50×70×1),EA,19,8,합성,
 302321,훈증액 MINNACARE COLD STERILANT,BT,19,8,합성,
@@ -6631,7 +6631,7 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 303039,5% Decon-spore(Sporicide)Gallon size자가,EA,19,8,합성,
 303035,Hypo-chlor (Sporicide)472mL 자가,EA,19,8,합성,
 303040,Hypo-chlor (Sporicide) Gallon size 자가,EA,19,8,합성,
-303080,70% IPA Dispenser용(자동분무기용),EA,19,8,합성, 2 
+303080,70% IPA Dispenser용(자동분무기용),EA,19,8,합성,2
 102990,Filter Unit 1L 자가(Bottle top),EA,19,8,합성,
 100130,디메티콘 유제 35% 자가,g,19,8,QC,
 105521,TSB(Non animal origin) 자가,BT,19,8,QC,
@@ -6639,13 +6639,13 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 105996,멸균백1200*1200mm,EA,19,8,QC,
 105998,멸균백400*500mm,EA,19,8,QC,
 106159,Durapore Opticap XL4 (KVGLA04TT3),EA,19,8,QC,
-300006,퐁퐁,EA,19,8,QC, 5 
-300009,Sartofluor GA 10',EA,19,8,QC, 1 
+300006,퐁퐁,EA,19,8,QC,5
+300009,Sartofluor GA 10',EA,19,8,QC,1
 300010,Sartofluor GA 20',EA,19,8,QC,
 300011,Sartofluor Mini,EA,19,8,QC,
 302000,수산화나트륨(퀴놀론1KG),kg,19,8,QC,
 302060,AGP Solution Kit,EA,19,8,QC,
-302101,5mL PC Validation Vial,EA,19,8,QC, 700 
+302101,5mL PC Validation Vial,EA,19,8,QC,700
 302102,Autoclave Indicator. Sigmaware,EA,19,8,QC,
 302103,Hi Temperature Indicator(Shamrock)(건열),EA,19,8,QC,
 302104,Chemical Indicator 1250 (3M),EA,19,8,QC,
@@ -6657,7 +6657,7 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 302126,펌프 튜빙(Masterflex L/S 24),EA,19,8,QC,
 302127,펌프 튜빙(Masterflex I/P 73),EA,19,8,QC,
 302128,펌프 튜빙(Masterflex I/P 82),EA,19,8,QC,
-302143,Endotoxin Indicator(Endosafe) 자가,EA,19,8,QC, 2 
+302143,Endotoxin Indicator(Endosafe) 자가,EA,19,8,QC,2
 302161,Durapore 필터(SCGVU11RE),EA,19,8,QC,
 302170,아세톤 자가,mL ,19,8,QC,
 302171,Optiseal 필터(LAGR04TP6),EA,19,8,QC,
@@ -6694,7 +6694,7 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 303090,테크세제,EA,19,8,QC,
 302841,72B/A4 Clean paper,EA,19,8,QC,
 200522,화이버 드럼,EA,19,8,QC,
-106602,보위딕 테스트 팩(Terragene),EA,19,8,QC, 6 
+106602,보위딕 테스트 팩(Terragene),EA,19,8,QC,6
 302255,필터 (PFY2UY300J),EA,19,8,QC,
 302571,Sartofluor Filter(5185307T8),EA,19,8,QC,
 302151,Sartoclean CA 20',EA,19,8,QC,
@@ -6706,17 +6706,17 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 103638,밀리팩200(MPGL2GCL3),EA,19,8,QC,
 102141,SARTOBRAN P 10' Filter,EA,19,8,QC,
 100351,Filter SARTOPURE PP2,EA,19,8,QC,
-303031,DECON-SPORE 200 Plus(0.4%)472mL 자가,EA,19,8,QC, 12 
-303034,Decon-cycle (Disinfectant)472mL 자가,EA,19,8,QC, 12 
+303031,DECON-SPORE 200 Plus(0.4%)472mL 자가,EA,19,8,QC,12
+303034,Decon-cycle (Disinfectant)472mL 자가,EA,19,8,QC,12
 303038,DECON-SPORE200Plus(0.4% )Gallon siz자가,EA,19,8,QC,
 303041,Decon-cycle(Disinfectant)Gallonsize자가,EA,19,8,QC,
-303036,70% IPA 472mL 자가,EA,19,8,QC, 37 
+303036,70% IPA 472mL 자가,EA,19,8,QC,37
 303060,70% IPA Gallon size 자가,EA,19,8,QC,
 303033,5% Decon-spore (Sporicide)472mL 자가,EA,19,8,QC,
 303039,5% Decon-spore(Sporicide)Gallon size자가,EA,19,8,QC,
 303035,Hypo-chlor (Sporicide)472mL 자가,EA,19,8,QC,
 303040,Hypo-chlor (Sporicide) Gallon size 자가,EA,19,8,QC,
-303080,70% IPA Dispenser용(자동분무기용),EA,19,8,QC, 3 
+303080,70% IPA Dispenser용(자동분무기용),EA,19,8,QC,3
 102990,Filter Unit 1L 자가(Bottle top),EA,19,8,QC,
 100130,디메티콘 유제 35% 자가,g,19,8,생지/공무,
 105521,TSB(Non animal origin) 자가,BT,19,8,생지/공무,
@@ -6734,15 +6734,15 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 302102,Autoclave Indicator. Sigmaware,EA,19,8,생지/공무,
 302103,Hi Temperature Indicator(Shamrock)(건열),EA,19,8,생지/공무,
 302104,Chemical Indicator 1250 (3M),EA,19,8,생지/공무,
-302109,락스 (럭키),EA,19,8,생지/공무, 1 
-302122,염화나트륨(수지 재생용) 자가,kg,19,8,생지/공무, 47,000 
+302109,락스 (럭키),EA,19,8,생지/공무,1
+302122,염화나트륨(수지 재생용) 자가,kg,19,8,생지/공무,46999.88
 302123,펌프 튜빙(Masterflex L/S 16),EA,19,8,생지/공무,
 302124,펌프 튜빙(Masterflex L/S 17),EA,19,8,생지/공무,
 302125,펌프 튜빙(Masterflex L/S 18),EA,19,8,생지/공무,
 302126,펌프 튜빙(Masterflex L/S 24),EA,19,8,생지/공무,
 302127,펌프 튜빙(Masterflex I/P 73),EA,19,8,생지/공무,
 302128,펌프 튜빙(Masterflex I/P 82),EA,19,8,생지/공무,
-302143,Endotoxin Indicator(Endosafe) 자가,EA,19,8,생지/공무, 1 
+302143,Endotoxin Indicator(Endosafe) 자가,EA,19,8,생지/공무,1
 302161,Durapore 필터(SCGVU11RE),EA,19,8,생지/공무,
 302170,아세톤 자가,mL ,19,8,생지/공무,
 302171,Optiseal 필터(LAGR04TP6),EA,19,8,생지/공무,
@@ -6795,7 +6795,7 @@ LMSM00007C,수산화나트륨 자가 (1kg),kg,20,7,생지/공무,
 303034,Decon-cycle (Disinfectant)472mL 자가,EA,19,8,생지/공무,
 303038,DECON-SPORE200Plus(0.4% )Gallon siz자가,EA,19,8,생지/공무,
 303041,Decon-cycle(Disinfectant)Gallonsize자가,EA,19,8,생지/공무,
-303036,70% IPA 472mL 자가,EA,19,8,생지/공무, 132 
+303036,70% IPA 472mL 자가,EA,19,8,생지/공무,132
 303060,70% IPA Gallon size 자가,EA,19,8,생지/공무,
 303033,5% Decon-spore (Sporicide)472mL 자가,EA,19,8,생지/공무,
 303039,5% Decon-spore(Sporicide)Gallon size자가,EA,19,8,생지/공무,
